@@ -1,0 +1,24 @@
+﻿# Logs
+*.log
+
+# Spark local metastore/warehouse
+spark-warehouse/
+metastore_db/
+derby.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
+
+# Environments
+.env
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
